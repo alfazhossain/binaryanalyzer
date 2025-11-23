@@ -521,28 +521,7 @@ sudo apt install libc6:i386 libncurses5:i386 libstdc++6:i386
 
 ---
 
-## 🤝 Contributing
 
-Contributions welcome! Feel free to:
-- Report bugs
-- Suggest features
-- Submit pull requests
-- Improve documentation
-
-```bash
-# Fork the repo
-git clone https://github.com/alfazhossain/binaryanalyzer.git
-cd ctf-binary-analyzer
-
-# Create feature branch
-git checkout -b feature-name
-
-# Make changes and commit
-git commit -am "Add new feature"
-
-# Push and create PR
-git push origin feature-name
-```
 
 ---
 
